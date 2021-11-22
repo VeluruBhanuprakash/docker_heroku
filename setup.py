@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="docker-heroku",
-    version="0.0.3",
+    name="waferfault-detection",
+    version="0.0.1",
     description="ML project",
-    author="Avnish yadav", 
+    author="Bhanuprakash",
     packages=find_packages(),
     license="MIT"
 )
